@@ -1,0 +1,15 @@
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/WRAssignment/WRAssignment/bin/Debug/net7.0/WRAssignment
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/WRAssignment/WRAssignment/bin/Debug/net7.0/WRAssignment.deps.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/WRAssignment/WRAssignment/bin/Debug/net7.0/WRAssignment.runtimeconfig.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/WRAssignment/WRAssignment/bin/Debug/net7.0/WRAssignment.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/WRAssignment/WRAssignment/bin/Debug/net7.0/WRAssignment.pdb
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/WRAssignment/WRAssignment/obj/Debug/net7.0/WRAssignment.csproj.AssemblyReference.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/WRAssignment/WRAssignment/obj/Debug/net7.0/WRAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/WRAssignment/WRAssignment/obj/Debug/net7.0/WRAssignment.AssemblyInfoInputs.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/WRAssignment/WRAssignment/obj/Debug/net7.0/WRAssignment.AssemblyInfo.cs
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/WRAssignment/WRAssignment/obj/Debug/net7.0/WRAssignment.csproj.CoreCompileInputs.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/WRAssignment/WRAssignment/obj/Debug/net7.0/WRAssignment.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/WRAssignment/WRAssignment/obj/Debug/net7.0/refint/WRAssignment.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/WRAssignment/WRAssignment/obj/Debug/net7.0/WRAssignment.pdb
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/WRAssignment/WRAssignment/obj/Debug/net7.0/WRAssignment.genruntimeconfig.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/WRAssignment/WRAssignment/obj/Debug/net7.0/ref/WRAssignment.dll
