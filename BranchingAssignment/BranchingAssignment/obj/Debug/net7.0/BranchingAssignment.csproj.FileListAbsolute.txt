@@ -1,0 +1,15 @@
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BranchingAssignment/BranchingAssignment/bin/Debug/net7.0/BranchingAssignment
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BranchingAssignment/BranchingAssignment/bin/Debug/net7.0/BranchingAssignment.deps.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BranchingAssignment/BranchingAssignment/bin/Debug/net7.0/BranchingAssignment.runtimeconfig.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BranchingAssignment/BranchingAssignment/bin/Debug/net7.0/BranchingAssignment.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BranchingAssignment/BranchingAssignment/bin/Debug/net7.0/BranchingAssignment.pdb
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BranchingAssignment/BranchingAssignment/obj/Debug/net7.0/BranchingAssignment.csproj.AssemblyReference.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BranchingAssignment/BranchingAssignment/obj/Debug/net7.0/BranchingAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BranchingAssignment/BranchingAssignment/obj/Debug/net7.0/BranchingAssignment.AssemblyInfoInputs.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BranchingAssignment/BranchingAssignment/obj/Debug/net7.0/BranchingAssignment.AssemblyInfo.cs
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BranchingAssignment/BranchingAssignment/obj/Debug/net7.0/BranchingAssignment.csproj.CoreCompileInputs.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BranchingAssignment/BranchingAssignment/obj/Debug/net7.0/BranchingAssignment.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BranchingAssignment/BranchingAssignment/obj/Debug/net7.0/refint/BranchingAssignment.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BranchingAssignment/BranchingAssignment/obj/Debug/net7.0/BranchingAssignment.pdb
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BranchingAssignment/BranchingAssignment/obj/Debug/net7.0/BranchingAssignment.genruntimeconfig.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BranchingAssignment/BranchingAssignment/obj/Debug/net7.0/ref/BranchingAssignment.dll

@@ -1,4 +1,23 @@
 ﻿<Properties StartupConfiguration="{13584B30-9404-4DA6-A774-5C34A136A0B9}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.BooleanLogic FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BooleanLogic/Program.cs">
+    <Files>
+      <File FileName="BooleanLogic/Program.cs" Line="30" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BooleanLogic" expanded="True">
+            <Node name="BooleanLogic" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BooleanLogic PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
