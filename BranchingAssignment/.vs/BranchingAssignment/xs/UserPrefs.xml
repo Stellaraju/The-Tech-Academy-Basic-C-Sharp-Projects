@@ -1,4 +1,23 @@
 ﻿<Properties StartupConfiguration="{E36CD794-C60A-4A1F-ABD2-B780A7AE203D}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.BranchingAssignment FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.BranchingAssignment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BranchingAssignment/Program.cs">
+    <Files>
+      <File FileName="BranchingAssignment/Program.cs" Line="45" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BranchingAssignment" expanded="True">
+            <Node name="BranchingAssignment" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
