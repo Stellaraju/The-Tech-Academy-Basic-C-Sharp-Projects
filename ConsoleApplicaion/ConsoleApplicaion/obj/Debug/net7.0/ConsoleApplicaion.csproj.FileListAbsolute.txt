@@ -1,0 +1,15 @@
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleApplicaion/ConsoleApplicaion/bin/Debug/net7.0/ConsoleApplicaion
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleApplicaion/ConsoleApplicaion/bin/Debug/net7.0/ConsoleApplicaion.deps.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleApplicaion/ConsoleApplicaion/bin/Debug/net7.0/ConsoleApplicaion.runtimeconfig.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleApplicaion/ConsoleApplicaion/bin/Debug/net7.0/ConsoleApplicaion.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleApplicaion/ConsoleApplicaion/bin/Debug/net7.0/ConsoleApplicaion.pdb
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleApplicaion/ConsoleApplicaion/obj/Debug/net7.0/ConsoleApplicaion.csproj.AssemblyReference.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleApplicaion/ConsoleApplicaion/obj/Debug/net7.0/ConsoleApplicaion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleApplicaion/ConsoleApplicaion/obj/Debug/net7.0/ConsoleApplicaion.AssemblyInfoInputs.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleApplicaion/ConsoleApplicaion/obj/Debug/net7.0/ConsoleApplicaion.AssemblyInfo.cs
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleApplicaion/ConsoleApplicaion/obj/Debug/net7.0/ConsoleApplicaion.csproj.CoreCompileInputs.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleApplicaion/ConsoleApplicaion/obj/Debug/net7.0/ConsoleApplicaion.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleApplicaion/ConsoleApplicaion/obj/Debug/net7.0/refint/ConsoleApplicaion.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleApplicaion/ConsoleApplicaion/obj/Debug/net7.0/ConsoleApplicaion.pdb
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleApplicaion/ConsoleApplicaion/obj/Debug/net7.0/ConsoleApplicaion.genruntimeconfig.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ConsoleApplicaion/ConsoleApplicaion/obj/Debug/net7.0/ref/ConsoleApplicaion.dll
