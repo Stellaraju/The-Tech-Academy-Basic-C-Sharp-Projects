@@ -1,0 +1,15 @@
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BooleanLogic/BooleanLogic/bin/Release/net7.0/BooleanLogic
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BooleanLogic/BooleanLogic/bin/Release/net7.0/BooleanLogic.deps.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BooleanLogic/BooleanLogic/bin/Release/net7.0/BooleanLogic.runtimeconfig.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BooleanLogic/BooleanLogic/bin/Release/net7.0/BooleanLogic.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BooleanLogic/BooleanLogic/bin/Release/net7.0/BooleanLogic.pdb
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BooleanLogic/BooleanLogic/obj/Release/net7.0/BooleanLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BooleanLogic/BooleanLogic/obj/Release/net7.0/BooleanLogic.AssemblyInfoInputs.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BooleanLogic/BooleanLogic/obj/Release/net7.0/BooleanLogic.AssemblyInfo.cs
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BooleanLogic/BooleanLogic/obj/Release/net7.0/BooleanLogic.csproj.CoreCompileInputs.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BooleanLogic/BooleanLogic/obj/Release/net7.0/BooleanLogic.sourcelink.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BooleanLogic/BooleanLogic/obj/Release/net7.0/BooleanLogic.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BooleanLogic/BooleanLogic/obj/Release/net7.0/refint/BooleanLogic.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BooleanLogic/BooleanLogic/obj/Release/net7.0/BooleanLogic.pdb
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BooleanLogic/BooleanLogic/obj/Release/net7.0/BooleanLogic.genruntimeconfig.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BooleanLogic/BooleanLogic/obj/Release/net7.0/ref/BooleanLogic.dll

@@ -1,0 +1,15 @@
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MathandComparisonOperators/MathandComparisonOperators/bin/Release/net7.0/MathandComparisonOperators
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MathandComparisonOperators/MathandComparisonOperators/bin/Release/net7.0/MathandComparisonOperators.deps.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MathandComparisonOperators/MathandComparisonOperators/bin/Release/net7.0/MathandComparisonOperators.runtimeconfig.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MathandComparisonOperators/MathandComparisonOperators/bin/Release/net7.0/MathandComparisonOperators.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MathandComparisonOperators/MathandComparisonOperators/bin/Release/net7.0/MathandComparisonOperators.pdb
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MathandComparisonOperators/MathandComparisonOperators/obj/Release/net7.0/MathandComparisonOperators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MathandComparisonOperators/MathandComparisonOperators/obj/Release/net7.0/MathandComparisonOperators.AssemblyInfoInputs.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MathandComparisonOperators/MathandComparisonOperators/obj/Release/net7.0/MathandComparisonOperators.AssemblyInfo.cs
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MathandComparisonOperators/MathandComparisonOperators/obj/Release/net7.0/MathandComparisonOperators.csproj.CoreCompileInputs.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MathandComparisonOperators/MathandComparisonOperators/obj/Release/net7.0/MathandComparisonOperators.sourcelink.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MathandComparisonOperators/MathandComparisonOperators/obj/Release/net7.0/MathandComparisonOperators.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MathandComparisonOperators/MathandComparisonOperators/obj/Release/net7.0/refint/MathandComparisonOperators.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MathandComparisonOperators/MathandComparisonOperators/obj/Release/net7.0/MathandComparisonOperators.pdb
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MathandComparisonOperators/MathandComparisonOperators/obj/Release/net7.0/MathandComparisonOperators.genruntimeconfig.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MathandComparisonOperators/MathandComparisonOperators/obj/Release/net7.0/ref/MathandComparisonOperators.dll

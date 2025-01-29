@@ -1,4 +1,21 @@
 ﻿<Properties StartupConfiguration="{86F03ECA-536C-416B-B76B-68C17FBA23C2}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ConsoleApplicaion FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleApplicaion/Program.cs">
+    <Files>
+      <File FileName="ConsoleApplicaion/Program.cs" Line="36" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleApplicaion" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ConsoleApplicaion PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
