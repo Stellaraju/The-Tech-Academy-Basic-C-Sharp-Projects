@@ -1,0 +1,15 @@
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodandObject/MethodandObject/bin/Debug/net7.0/MethodandObject
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodandObject/MethodandObject/bin/Debug/net7.0/MethodandObject.deps.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodandObject/MethodandObject/bin/Debug/net7.0/MethodandObject.runtimeconfig.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodandObject/MethodandObject/bin/Debug/net7.0/MethodandObject.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodandObject/MethodandObject/bin/Debug/net7.0/MethodandObject.pdb
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodandObject/MethodandObject/obj/Debug/net7.0/MethodandObject.csproj.AssemblyReference.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodandObject/MethodandObject/obj/Debug/net7.0/MethodandObject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodandObject/MethodandObject/obj/Debug/net7.0/MethodandObject.AssemblyInfoInputs.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodandObject/MethodandObject/obj/Debug/net7.0/MethodandObject.AssemblyInfo.cs
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodandObject/MethodandObject/obj/Debug/net7.0/MethodandObject.csproj.CoreCompileInputs.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodandObject/MethodandObject/obj/Debug/net7.0/MethodandObject.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodandObject/MethodandObject/obj/Debug/net7.0/refint/MethodandObject.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodandObject/MethodandObject/obj/Debug/net7.0/MethodandObject.pdb
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodandObject/MethodandObject/obj/Debug/net7.0/MethodandObject.genruntimeconfig.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/MethodandObject/MethodandObject/obj/Debug/net7.0/ref/MethodandObject.dll
