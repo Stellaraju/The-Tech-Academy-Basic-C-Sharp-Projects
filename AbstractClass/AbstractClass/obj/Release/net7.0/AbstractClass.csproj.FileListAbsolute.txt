@@ -1,0 +1,15 @@
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/AbstractClass/AbstractClass/bin/Release/net7.0/AbstractClass
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/AbstractClass/AbstractClass/bin/Release/net7.0/AbstractClass.deps.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/AbstractClass/AbstractClass/bin/Release/net7.0/AbstractClass.runtimeconfig.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/AbstractClass/AbstractClass/bin/Release/net7.0/AbstractClass.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/AbstractClass/AbstractClass/bin/Release/net7.0/AbstractClass.pdb
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/AbstractClass/AbstractClass/obj/Release/net7.0/AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/AbstractClass/AbstractClass/obj/Release/net7.0/AbstractClass.AssemblyInfoInputs.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/AbstractClass/AbstractClass/obj/Release/net7.0/AbstractClass.AssemblyInfo.cs
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/AbstractClass/AbstractClass/obj/Release/net7.0/AbstractClass.csproj.CoreCompileInputs.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/AbstractClass/AbstractClass/obj/Release/net7.0/AbstractClass.sourcelink.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/AbstractClass/AbstractClass/obj/Release/net7.0/AbstractClass.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/AbstractClass/AbstractClass/obj/Release/net7.0/refint/AbstractClass.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/AbstractClass/AbstractClass/obj/Release/net7.0/AbstractClass.pdb
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/AbstractClass/AbstractClass/obj/Release/net7.0/AbstractClass.genruntimeconfig.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/AbstractClass/AbstractClass/obj/Release/net7.0/ref/AbstractClass.dll
