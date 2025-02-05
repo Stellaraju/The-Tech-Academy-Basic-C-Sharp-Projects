@@ -1,4 +1,23 @@
 ﻿<Properties StartupConfiguration="{733A854A-F351-4926-BCB6-6F07FC0318DC}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Struct/Program.cs">
+    <Files>
+      <File FileName="Struct/Program.cs" Line="16" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Struct" expanded="True">
+            <Node name="Struct" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Struct FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Struct PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
