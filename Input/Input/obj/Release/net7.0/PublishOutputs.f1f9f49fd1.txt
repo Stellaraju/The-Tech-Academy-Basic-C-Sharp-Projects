@@ -1,0 +1,5 @@
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Input/Input
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Input/Input.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Input/Input.deps.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Input/Input.runtimeconfig.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Input/Input.pdb
