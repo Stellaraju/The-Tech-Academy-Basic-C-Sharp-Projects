@@ -1,0 +1,15 @@
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/DateTime/DateTime/bin/Debug/net7.0/DateTime
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/DateTime/DateTime/bin/Debug/net7.0/DateTime.deps.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/DateTime/DateTime/bin/Debug/net7.0/DateTime.runtimeconfig.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/DateTime/DateTime/bin/Debug/net7.0/DateTime.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/DateTime/DateTime/bin/Debug/net7.0/DateTime.pdb
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/DateTime/DateTime/obj/Debug/net7.0/DateTime.csproj.AssemblyReference.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/DateTime/DateTime/obj/Debug/net7.0/DateTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/DateTime/DateTime/obj/Debug/net7.0/DateTime.AssemblyInfoInputs.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/DateTime/DateTime/obj/Debug/net7.0/DateTime.AssemblyInfo.cs
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/DateTime/DateTime/obj/Debug/net7.0/DateTime.csproj.CoreCompileInputs.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/DateTime/DateTime/obj/Debug/net7.0/DateTime.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/DateTime/DateTime/obj/Debug/net7.0/refint/DateTime.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/DateTime/DateTime/obj/Debug/net7.0/DateTime.pdb
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/DateTime/DateTime/obj/Debug/net7.0/DateTime.genruntimeconfig.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/DateTime/DateTime/obj/Debug/net7.0/ref/DateTime.dll
