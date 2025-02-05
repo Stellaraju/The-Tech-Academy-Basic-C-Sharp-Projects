@@ -1,0 +1,15 @@
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ParsingEnums/ParsingEnums/bin/Debug/net7.0/ParsingEnums
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ParsingEnums/ParsingEnums/bin/Debug/net7.0/ParsingEnums.deps.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ParsingEnums/ParsingEnums/bin/Debug/net7.0/ParsingEnums.runtimeconfig.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ParsingEnums/ParsingEnums/bin/Debug/net7.0/ParsingEnums.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ParsingEnums/ParsingEnums/bin/Debug/net7.0/ParsingEnums.pdb
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ParsingEnums/ParsingEnums/obj/Debug/net7.0/ParsingEnums.csproj.AssemblyReference.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ParsingEnums/ParsingEnums/obj/Debug/net7.0/ParsingEnums.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ParsingEnums/ParsingEnums/obj/Debug/net7.0/ParsingEnums.AssemblyInfoInputs.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ParsingEnums/ParsingEnums/obj/Debug/net7.0/ParsingEnums.AssemblyInfo.cs
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ParsingEnums/ParsingEnums/obj/Debug/net7.0/ParsingEnums.csproj.CoreCompileInputs.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ParsingEnums/ParsingEnums/obj/Debug/net7.0/ParsingEnums.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ParsingEnums/ParsingEnums/obj/Debug/net7.0/refint/ParsingEnums.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ParsingEnums/ParsingEnums/obj/Debug/net7.0/ParsingEnums.pdb
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ParsingEnums/ParsingEnums/obj/Debug/net7.0/ParsingEnums.genruntimeconfig.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/ParsingEnums/ParsingEnums/obj/Debug/net7.0/ref/ParsingEnums.dll
