@@ -1,0 +1,15 @@
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Constructor/Constructor/bin/Release/net7.0/Constructor
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Constructor/Constructor/bin/Release/net7.0/Constructor.deps.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Constructor/Constructor/bin/Release/net7.0/Constructor.runtimeconfig.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Constructor/Constructor/bin/Release/net7.0/Constructor.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Constructor/Constructor/bin/Release/net7.0/Constructor.pdb
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Constructor/Constructor/obj/Release/net7.0/Constructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Constructor/Constructor/obj/Release/net7.0/Constructor.AssemblyInfoInputs.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Constructor/Constructor/obj/Release/net7.0/Constructor.AssemblyInfo.cs
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Constructor/Constructor/obj/Release/net7.0/Constructor.csproj.CoreCompileInputs.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Constructor/Constructor/obj/Release/net7.0/Constructor.sourcelink.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Constructor/Constructor/obj/Release/net7.0/Constructor.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Constructor/Constructor/obj/Release/net7.0/refint/Constructor.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Constructor/Constructor/obj/Release/net7.0/Constructor.pdb
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Constructor/Constructor/obj/Release/net7.0/Constructor.genruntimeconfig.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Constructor/Constructor/obj/Release/net7.0/ref/Constructor.dll

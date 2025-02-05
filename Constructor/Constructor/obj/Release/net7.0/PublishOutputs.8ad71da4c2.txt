@@ -1,0 +1,5 @@
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Constructor/Constructor
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Constructor/Constructor.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Constructor/Constructor.deps.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Constructor/Constructor.runtimeconfig.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/Constructor/Constructor.pdb
