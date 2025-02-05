@@ -1,0 +1,15 @@
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/TryCatch/TryCatch/obj/Debug/net7.0/TryCatch.csproj.AssemblyReference.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/TryCatch/TryCatch/obj/Debug/net7.0/TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/TryCatch/TryCatch/obj/Debug/net7.0/TryCatch.AssemblyInfoInputs.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/TryCatch/TryCatch/obj/Debug/net7.0/TryCatch.AssemblyInfo.cs
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/TryCatch/TryCatch/obj/Debug/net7.0/TryCatch.csproj.CoreCompileInputs.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/TryCatch/TryCatch/bin/Debug/net7.0/TryCatch
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/TryCatch/TryCatch/bin/Debug/net7.0/TryCatch.deps.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/TryCatch/TryCatch/bin/Debug/net7.0/TryCatch.runtimeconfig.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/TryCatch/TryCatch/bin/Debug/net7.0/TryCatch.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/TryCatch/TryCatch/bin/Debug/net7.0/TryCatch.pdb
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/TryCatch/TryCatch/obj/Debug/net7.0/TryCatch.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/TryCatch/TryCatch/obj/Debug/net7.0/refint/TryCatch.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/TryCatch/TryCatch/obj/Debug/net7.0/TryCatch.pdb
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/TryCatch/TryCatch/obj/Debug/net7.0/TryCatch.genruntimeconfig.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/TryCatch/TryCatch/obj/Debug/net7.0/ref/TryCatch.dll
