@@ -1,0 +1,15 @@
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BlackJackGame/BlackJackGame/bin/Debug/net7.0/BlackJackGame
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BlackJackGame/BlackJackGame/bin/Debug/net7.0/BlackJackGame.deps.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BlackJackGame/BlackJackGame/bin/Debug/net7.0/BlackJackGame.runtimeconfig.json
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BlackJackGame/BlackJackGame/bin/Debug/net7.0/BlackJackGame.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BlackJackGame/BlackJackGame/bin/Debug/net7.0/BlackJackGame.pdb
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BlackJackGame/BlackJackGame/obj/Debug/net7.0/BlackJackGame.csproj.AssemblyReference.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BlackJackGame/BlackJackGame/obj/Debug/net7.0/BlackJackGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BlackJackGame/BlackJackGame/obj/Debug/net7.0/BlackJackGame.AssemblyInfoInputs.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BlackJackGame/BlackJackGame/obj/Debug/net7.0/BlackJackGame.AssemblyInfo.cs
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BlackJackGame/BlackJackGame/obj/Debug/net7.0/BlackJackGame.csproj.CoreCompileInputs.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BlackJackGame/BlackJackGame/obj/Debug/net7.0/BlackJackGame.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BlackJackGame/BlackJackGame/obj/Debug/net7.0/refint/BlackJackGame.dll
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BlackJackGame/BlackJackGame/obj/Debug/net7.0/BlackJackGame.pdb
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BlackJackGame/BlackJackGame/obj/Debug/net7.0/BlackJackGame.genruntimeconfig.cache
+/Users/rajumichael/Documents/GitHub/The-Tech-Academy-Basic-C-Sharp-Projects/BlackJackGame/BlackJackGame/obj/Debug/net7.0/ref/BlackJackGame.dll

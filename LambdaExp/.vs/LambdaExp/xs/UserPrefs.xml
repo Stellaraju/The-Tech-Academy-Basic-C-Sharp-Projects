@@ -1,4 +1,23 @@
 ﻿<Properties StartupConfiguration="{CCAC5F73-9F3B-4F7D-8EF5-FEB17232839F}|Default">
-  <MonoDevelop.Ide.ItemProperties.LambdaExp FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.LambdaExp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LambdaExp/Program.cs">
+    <Files>
+      <File FileName="LambdaExp/Program.cs" Line="71" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LambdaExp" expanded="True">
+            <Node name="LambdaExp" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
