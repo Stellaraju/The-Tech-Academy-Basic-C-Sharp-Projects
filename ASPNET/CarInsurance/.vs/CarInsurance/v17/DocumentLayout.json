@@ -1,12 +1,70 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\ASPNET\\CarInsurance\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97A46F35-2175-4EFF-8B27-42DEB4D66FC2}|CarInsurance\\CarInsurance.csproj|c:\\users\\rajum\\onedrive\\documents\\github\\aspnet\\carinsurance\\carinsurance\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97A46F35-2175-4EFF-8B27-42DEB4D66FC2}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A46F35-2175-4EFF-8B27-42DEB4D66FC2}|CarInsurance\\CarInsurance.csproj|c:\\users\\rajum\\onedrive\\documents\\github\\aspnet\\carinsurance\\carinsurance\\views\\insuree\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97A46F35-2175-4EFF-8B27-42DEB4D66FC2}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insuree\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A46F35-2175-4EFF-8B27-42DEB4D66FC2}|CarInsurance\\CarInsurance.csproj|C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\ASPNET\\CarInsurance\\carinsurance\\controllers\\insureecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A46F35-2175-4EFF-8B27-42DEB4D66FC2}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\controllers\\insureecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\ASPNET\\CarInsurance\\CarInsurance\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarInsurance\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\ASPNET\\CarInsurance\\CarInsurance\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CarInsurance\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T08:09:49.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InsureeController.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\ASPNET\\CarInsurance\\CarInsurance\\Controllers\\InsureeController.cs",
+              "RelativeDocumentMoniker": "CarInsurance\\Controllers\\InsureeController.cs",
+              "ToolTip": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\ASPNET\\CarInsurance\\CarInsurance\\Controllers\\InsureeController.cs",
+              "RelativeToolTip": "CarInsurance\\Controllers\\InsureeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:04:24.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\ASPNET\\CarInsurance\\CarInsurance\\Views\\Insuree\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarInsurance\\Views\\Insuree\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\ASPNET\\CarInsurance\\CarInsurance\\Views\\Insuree\\Index.cshtml",
+              "RelativeToolTip": "CarInsurance\\Views\\Insuree\\Index.cshtml",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T08:04:11.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
